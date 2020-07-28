@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="app">
       <Header/>
-      <h1>Tinder Clone</h1>
+      
     </div>
   );
 }
